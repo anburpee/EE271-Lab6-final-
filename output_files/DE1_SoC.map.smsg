@@ -1,0 +1,4 @@
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Info (10281): Verilog HDL Declaration information at all_lights.sv(3): object "L_won" differs only in case from object "l_won" in the same scope File: C:/ee271labs/Lab6_files/all_lights.sv Line: 3
+Info (10281): Verilog HDL Declaration information at all_lights.sv(3): object "R_won" differs only in case from object "r_won" in the same scope File: C:/ee271labs/Lab6_files/all_lights.sv Line: 3
+Warning (10034): Output port "LEDR" at DE1_SoC.sv(4) has no driver File: C:/ee271labs/Lab6_files/DE1_SoC.sv Line: 4
