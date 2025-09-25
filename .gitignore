@@ -1,0 +1,15 @@
+# Quartus build folders
+db/
+incremental_db/
+output_files/
+
+# Quartus temporary / backup files
+*.rpt
+*.smsg
+*.bak
+*.log
+*.sof
+*.pof
+*.srf
+*.jdi
+*.qws
